@@ -3,8 +3,8 @@ package transport
 import (
 	origin "crypto/tls"
 	origX509 "crypto/x509"
-	"github.com/cetcxinlian/cryptogm/tls"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/xiekang997653765/CryptoGM/tls"
+	"github.com/xiekang997653765/CryptoGM/x509"
 )
 
 

@@ -8,7 +8,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/cetcxinlian/cryptogm/tls"
+	"github.com/xiekang997653765/CryptoGM/tls"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 	"google.golang.org/grpc/keepalive"

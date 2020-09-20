@@ -7,7 +7,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/cetcxinlian/cryptogm/tls"
+	"github.com/xiekang997653765/CryptoGM/tls"
 	peerpb "github.com/hyperledger/fabric-protos-go/peer"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"

@@ -21,7 +21,7 @@
 package credentials
 
 import (
-	"github.com/cetcxinlian/cryptogm/tls"
+	"github.com/xiekang997653765/CryptoGM/tls"
 )
 
 func init() {

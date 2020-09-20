@@ -6,7 +6,7 @@ package shim
 import (
 	"errors"
 
-	"github.com/cetcxinlian/cryptogm/tls"
+	"github.com/xiekang997653765/CryptoGM/tls"
 	"github.com/hyperledger/fabric-chaincode-go/shim/internal"
 	pb "github.com/hyperledger/fabric-protos-go/peer"
 
